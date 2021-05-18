@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 1000 points
+  - 2500 points
+  - 5000 points
+  - 10000 points
   layers:
   - Default
   - TransparentFX
