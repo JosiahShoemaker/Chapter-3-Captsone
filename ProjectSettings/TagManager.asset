@@ -8,6 +8,7 @@ TagManager:
   - 2500 points
   - 5000 points
   - 10000 points
+  - Ball
   layers:
   - Default
   - TransparentFX
